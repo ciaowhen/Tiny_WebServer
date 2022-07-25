@@ -1,0 +1,3 @@
+/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/CMakeFiles/TinyWebServer.dir

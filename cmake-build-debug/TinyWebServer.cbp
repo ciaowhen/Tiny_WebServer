@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TinyWebServer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TinyWebServer">
+				<Option output="/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/TinyWebServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TinyWebServer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TinyWebServer/fast">
+				<Option output="/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/TinyWebServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TinyWebServer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ciaowhen/C++_code/project/TinyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/CGImysql/sql_connection_pool.cpp">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/CGImysql/sql_connection_pool.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/config.cpp">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/config.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/http/http_conn.cpp">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/http/http_conn.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/lock/locker.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/log/block_queue.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/log/log.cpp">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/log/log.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/main.cpp">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/threadpool/threadpool.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/timer/lst_timer.cpp">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/timer/lst_timer.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/webserver.cpp">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/webserver.h">
+			<Option target="TinyWebServer"/>
+		</Unit>
+		<Unit filename="/home/ciaowhen/C++_code/project/TinyWebServer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
